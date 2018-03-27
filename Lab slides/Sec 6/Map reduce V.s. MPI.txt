@@ -1,0 +1,9 @@
+    “… In general, MapReduce is suitable for noniterative algorithms where nodes require little data exchange to proceed (noniterative and independent); MPI is appropriate for iterative algorithms where nodes require data exchange to proceed (iterative and dependent).”
+	
+	My unverified understanding: Map-reduce is more suitable for data-intensive task, while MPI is more appropriate for computation-intensive task. In Mapreduce, the data is less correlated, making it easier to allocate to MAP modules.
+
+Some key differences are listed below:
+
+    Map-reduce is easier to learn, while MPI is distinctly more complex with lots of functions. MPI can control the parallel process in a finer granularity.
+    Map-Reduce communicates between nodes by disk I/O (on GFS, which is faster than NTFS/EXT3), while MPI performs communication by message passing.
+    Map-reduce provides a fault-tolerant mechanism, that is, when one node fails, map-reduce restarts the same task on another node. All MPI processes will exit if one of them fails.
