@@ -12,6 +12,7 @@ For FCI fayoum students, you can find all the materials we discuss here.
 | Sec 4       | Wednesday<br />14-03-2018 | **<u>NETTY Framework</u>**                                   | [PPT](/Lab%20slides/Sec%203/Sec%203.pdf) [Assignments](/Lab%20Assignments/Assignment%20Three.pdf) [Codes](/Lab%20Codes/04-%20NETTY) [Video](https://www.youtube.com/watch?v=XIVou85uMkM) |
 | Sec 5       | Wednesday<br />21-03-2018 | **<u>Java RMI</u>**<br />**<u>MVC</u>**                      | [PPT](/Lab%20slides/Sec%205/Sec%205.pdf) [Assignments](/Lab%20Assignments/Assignment%20Four.pdf) [Codes](/Lab%20Codes/05-%20RMI) |
 | Sec 6       | Wednesday<br />28-03-2018 | **<u>Introduction to MPI</u>**                               | [PPT](/Lab%20slides/Sec%206/Sec%206.pdf)                     |
-| Sec 7       | Wednesday<br />10-04-2018 | **<u>Point to point operations with MPI</u>**                | [PPT](/Lab%20slides/Sec%207/Sec%207.pdf) [Assignments](/Lab%20Assignments/Assignment%20Five.pdf) [Codes](/Lab%20Codes/07-%20Point%20to%20point%20MPI) |
+| Sec 7       | Wednesday<br />11-04-2018 | **<u>Point to point operations with MPI</u>**                | [PPT](/Lab%20slides/Sec%207/Sec%207.pdf) [Assignments](/Lab%20Assignments/Assignment%20Five.pdf) [Codes](/Lab%20Codes/07-%20Point%20to%20point%20MPI) |
+| Sec 8       | Wednesday<br />18-04-2018 | **<u>Deadlocks with PTP and non blocking operations</u>**    | [PPT](/Lab%20slides/Sec%208/Sec%208.pdf) [Assignments](/Lab%20Assignments/Assignment%20Six.pdf) [Codes](/Lab%20Codes/08-%20Deadlocks%20and%20non-blocking%20operations) |
 | Appendix A  | -                         | **<u>Vectorization</u>**                                     | [PPT](/Lab%20slides/Appendix%20A/Vectorization.pdf)          |
 
